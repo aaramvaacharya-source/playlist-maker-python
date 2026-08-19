@@ -1,1 +1,1 @@
-# playlist-maker-python
+A Python program that lets users create either a music playlist or a movie playlist. The app stores the user’s predefined list, collects a friend’s list, removes duplicates, sorts both playlists alphabetically, combines them into a master playlist, and finally shuffles the master list to produce a randomized final playlist.
